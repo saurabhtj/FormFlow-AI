@@ -1,0 +1,40 @@
+[
+  { "id": 1, "category": "greeting", "speaker": "VillageMan", "text": "Chetta, evide pokunne?" },
+  { "id": 2, "category": "greeting", "speaker": "VillageMan", "text": "Namaskaram! Innathe mission ready alle?" },
+  { "id": 3, "category": "greeting", "speaker": "VillageMan", "text": "Vannallo! Njan ningale kaathirikkukayirunnu." },
+  { "id": 4, "category": "greeting", "speaker": "VillageMan", "text": "Ee nattile puthiya aal aano?" },
+  { "id": 5, "category": "greeting", "speaker": "VillageMan", "text": "Suhruthe, oru sahayam veno?" },
+  
+  { "id": 6, "category": "funny", "speaker": "VillageMan", "text": "Chetta, ningal vannappol kozhiyum alert aayi!" },
+  { "id": 7, "category": "funny", "speaker": "VillageMan", "text": "Ningalude nadappu kandittu hero entry pole undu." },
+  { "id": 8, "category": "funny", "speaker": "VillageMan", "text": "Mission cheyyan vannathano, atho sightseeing ano?" },
+  { "id": 9, "category": "funny", "speaker": "VillageMan", "text": "Ee village-il news wifi-nekkal vegam spread aakum." },
+  { "id": 10, "category": "funny", "speaker": "VillageMan", "text": "Ningal parayunnathu kettal njan confusion aakunnu." },
+  
+  { "id": 11, "category": "shopkeeper", "speaker": "Shopkeeper", "text": "Discount chodikkunnathinu munpe cash undo enn nokku!" },
+  { "id": 12, "category": "shopkeeper", "speaker": "Shopkeeper", "text": "Chetta, item quality super aanu." },
+  { "id": 13, "category": "shopkeeper", "speaker": "Shopkeeper", "text": "Kandittu poyi marakkaruthu." },
+  { "id": 14, "category": "shopkeeper", "speaker": "Shopkeeper", "text": "Innale vila vere aayirunnu, innu vere aanu." },
+  
+  { "id": 15, "category": "quest", "speaker": "QuestGiver", "text": "Oru cheriya pani undu." },
+  { "id": 16, "category": "quest", "speaker": "QuestGiver", "text": "Ee mission easy aanu... ennu njan vicharikkunnu." },
+  { "id": 17, "category": "quest", "speaker": "QuestGiver", "text": "Success aayal reward undu." },
+  { "id": 18, "category": "quest", "speaker": "QuestGiver", "text": "Fail aayalum njan judge cheyyilla." },
+  
+  { "id": 19, "category": "friend", "speaker": "Friend", "text": "Suhruthe, ninte help marakkilla." },
+  { "id": 20, "category": "friend", "speaker": "Friend", "text": "Nee vannappol confidence koodi." },
+  { "id": 21, "category": "friend", "speaker": "Friend", "text": "Nammal team aayi kalichaal set aanu." },
+  
+  { "id": 22, "category": "elder", "speaker": "Elder", "text": "Anubhavathinte vila pinne manassilaakum." },
+  { "id": 23, "category": "elder", "speaker": "Elder", "text": "Vegam odunnavan ella samayavum jayikkilla." },
+  { "id": 24, "category": "elder", "speaker": "Elder", "text": "Chinthichu cheyyunna pravarthi nallathanu." },
+  
+  { "id": 25, "category": "combat", "speaker": "Warrior", "text": "Enemy aduthu undu!" },
+  { "id": 26, "category": "combat", "speaker": "Warrior", "text": "Careful, situation kurachu dangerous aanu." },
+  { "id": 27, "category": "combat", "speaker": "Warrior", "text": "Backup venamenkil parayu." },
+  { "id": 28, "category": "combat", "speaker": "Warrior", "text": "Squad ready aakku!" },
+  
+  { "id": 29, "category": "weather", "speaker": "VillageMan", "text": "Mazha varunnu, kuda edutho?" },
+  { "id": 30, "category": "weather", "speaker": "VillageMan", "text": "Road slippery aanu, shradhikkane." },
+  { "id": 31, "category": "weather", "speaker": "VillageMan", "text": "Mazhayum missionum onnichu vannu." }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "Biome_ID": 1,
+    "Biome_Name": "Plains",
+    "Temperature": 22,
+    "Humidity": 70,
+    "Weather": "Clear",
+    "Resource_Type": "Wood",
+    "Mob_Type": "Cow",
+    "Day_Night_Cycle": "Yes",
+    "Region_Bounds": { "minX": -20, "maxX": 0 }
+  },
+  {
+    "Biome_ID": 2,
+    "Biome_Name": "Desert",
+    "Temperature": 42,
+    "Humidity": 10,
+    "Weather": "Sunny",
+    "Resource_Type": "Sand",
+    "Mob_Type": "Husk",
+    "Day_Night_Cycle": "Yes",
+    "Region_Bounds": { "minX": 20, "maxX": 1000 }
+  },
+  {
+    "Biome_ID": 3,
+    "Biome_Name": "Snowy",
+    "Temperature": 0,
+    "Humidity": 80,
+    "Weather": "Snow",
+    "Resource_Type": "Ice",
+    "Mob_Type": "PolarBear",
+    "Day_Night_Cycle": "Yes",
+    "Region_Bounds": { "minX": -1000, "maxX": -20 }
+  },
+  {
+    "Biome_ID": 4,
+    "Biome_Name": "Kerala Monsoon",
+    "Temperature": 28,
+    "Humidity": 95,
+    "Weather": "Rain",
+    "Resource_Type": "CoconutWood",
+    "Mob_Type": "None",
+    "Special_Event": "Heavy Monsoon Rain",
+    "Day_Night_Cycle": "Yes",
+    "Region_Bounds": { "minX": 0, "maxX": 20 }
+  }
+]
